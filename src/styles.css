@@ -1,0 +1,10 @@
+.login-input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.login-btn {
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
